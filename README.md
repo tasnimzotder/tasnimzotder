@@ -5,11 +5,8 @@ A student -n- developer loves to explore ⛵
 ## Programming Languages 👨‍💻
 
 <img src="https://img.shields.io/badge/C++-3.5/5-blue?style=for-the-badge&logo=c%2B%2B" alt="cpp">
-
 <img src="https://img.shields.io/badge/Python-3/5-blue?style=for-the-badge&logo=python" alt="python">
-
 <img src="https://img.shields.io/badge/JavaScript-3/5-blue?style=for-the-badge&logo=javascript" alt="javascript">
-
 <img src="https://img.shields.io/badge/PowerShell-2/5-blue?style=for-the-badge&logo=powershell" alt="powershell">
 
 ## Connect with me 🌐
