@@ -6,12 +6,12 @@ A student -n- developer loves to explore ⛵
 
 <div align="center">
     <img src="https://img.shields.io/badge/C++-3.5/5-blue?style=for-the-badge&logo=c%2B%2B" alt="cpp">
-    <img src="https://img.shields.io/badge/Python-3/5-blue?style=for-the-badge&logo=python" alt="python">
+    <img src="https://img.shields.io/badge/Python-3.5/5-blue?style=for-the-badge&logo=python" alt="python">
     <img src="https://img.shields.io/badge/JavaScript-3/5-blue?style=for-the-badge&logo=javascript" alt="javascript">
-    <img src="https://img.shields.io/badge/PowerShell-2/5-blue?style=for-the-badge&logo=powershell" alt="powershell">
+    <img src="https://img.shields.io/badge/PowerShell-2.5/5-blue?style=for-the-badge&logo=powershell" alt="powershell">
 </div>
 
-## Connect with me 🌐
+## Connect me with 🌐
 
 <div align="center">
     <a href="https://github.com/tasnimzotder"
@@ -39,9 +39,8 @@ A student -n- developer loves to explore ⛵
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tasnimzotder&show_icons=true">
 </div>
-<!-- [![Tasnim's github stats](https://github-readme-stats.vercel.app/api?username=tasnimzotder&show_icons=true)](https://github.com/tasnimzotder)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimzotder)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **tasnimzotder/tasnimzotder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
