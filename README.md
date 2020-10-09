@@ -4,42 +4,44 @@ A student -n- developer loves to explore ⛵
 
 ## Programming Languages 👨‍💻
 
-<div align="center">
-    <img src="https://img.shields.io/badge/C++--blue?style=for-the-badge&logo=c%2B%2B" alt="cpp">
-    <img src="https://img.shields.io/badge/Python--blue?style=for-the-badge&logo=python" alt="python">
-    <img src="https://img.shields.io/badge/JavaScript--blue?style=for-the-badge&logo=javascript" alt="javascript">
-    <img src="https://img.shields.io/badge/PowerShell--blue?style=for-the-badge&logo=powershell" alt="powershell">
-</div>
+<p align="center">
+    <img height="38px" alt="python" src="assets/python.png" />
+    <img height="38px" alt="javascript" src="assets/javascript.png" />
+    <img height="38px" alt="cpp" src="assets/cpp.png" />
+    <img height="38px" alt="powershell" src="assets/powershell.png" />
+</p>
 
-## Connect me with 🌐
+## Connect me on 🌐
 
-<div align="center">
+<p align="center">
     <a href="https://github.com/tasnimzotder"
             ><img
-              alt="GitHub followers"
+              alt="GitHub"
               src="https://img.shields.io/github/followers/tasnimzotder?label=GitHub&logo=Github&style=for-the-badge"
           /></a>
     <a href="https://twitter.com/tasnimzotder"
             ><img
-              alt="Twitter Follow"
+              alt="Twitter"
               src="https://img.shields.io/twitter/follow/tasnimzotder?color=blue&label=Twitter&logo=Twitter&style=for-the-badge"
           /></a>
     <a href="https://www.linkedin.com/in/tasnimzotder/"
             ><img
+              alt="LinkedIn"
               src="https://img.shields.io/badge/LinkedIn-_-blue?style=for-the-badge&logo=linkedin"
           /></a>
     <a href="https://www.youtube.com/channel/UCInpi_5VQfHYDHWxreTgwRw"
             ><img
+              alt="YouTube"
               src="https://img.shields.io/badge/YouTube-_-blue?style=for-the-badge&logo=youtube"
           /></a>
-</div>
+</p>
 
 ---
-<br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tasnimzotder&show_icons=true">
-</div>
 
+<br>
+<p align="center">
+    <a href="https://github.com/tasnimzotder" ><img src="https://github-readme-stats.vercel.app/api?username=tasnimzotder&show_icons=true"></a>
+</p>
 
 <!--
 **tasnimzotder/tasnimzotder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
