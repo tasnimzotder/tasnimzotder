@@ -1,39 +1,24 @@
 # Tasnim Zotder
 
-A student -n- developer loves to explore ⛵
+<img height="20px" alt="compass" src="assets/compass.png" /> A student -n- developer loves to explore ...
 
-## Programming Languages 👨‍💻
+## <img height="24px" alt="program" src="assets/program.png" /> Programming Languages
 
 <p align="center">
-    <img height="38px" alt="python" src="assets/python.png" />
-    <img height="38px" alt="javascript" src="assets/javascript.png" />
-    <img height="38px" alt="cpp" src="assets/cpp.png" />
-    <img height="38px" alt="powershell" src="assets/powershell.png" />
+    <img height="42px" alt="python" src="assets/python.svg" />
+    <img height="42px" alt="javascript" src="assets/javascript.svg" />
+    <img height="42px" alt="cpp" src="assets/cpp-x.png" />
+    <img height="42px" alt="powershell" src="assets/powershell.svg" />
 </p>
 
-## Connect me on 🌐
+## <img height="24px" alt="cloud" src="assets/cloud.png" /> Connect me on
 
 <p align="center">
-    <a href="https://github.com/tasnimzotder"
-            ><img
-              alt="GitHub"
-              src="https://img.shields.io/github/followers/tasnimzotder?label=GitHub&logo=Github&style=for-the-badge"
-          /></a>
-    <a href="https://twitter.com/tasnimzotder"
-            ><img
-              alt="Twitter"
-              src="https://img.shields.io/twitter/follow/tasnimzotder?color=blue&label=Twitter&logo=Twitter&style=for-the-badge"
-          /></a>
-    <a href="https://www.linkedin.com/in/tasnimzotder/"
-            ><img
-              alt="LinkedIn"
-              src="https://img.shields.io/badge/LinkedIn-_-blue?style=for-the-badge&logo=linkedin"
-          /></a>
-    <a href="https://www.youtube.com/channel/UCInpi_5VQfHYDHWxreTgwRw"
-            ><img
-              alt="YouTube"
-              src="https://img.shields.io/badge/YouTube-_-blue?style=for-the-badge&logo=youtube"
-          /></a>
+    <a href="https://github.com/tasnimzotder"><img height="42px" alt="github" src="assets/github.svg"/></a>
+    <a href="https://twitter.com/tasnimzotder"><img height="42px" alt="twitter" src="assets/twitter.svg" /></a>
+    <a href="https://www.linkedin.com/in/tasnimzotder"><img height="42px" alt="linkedin" src="assets/linkedin.svg" /></a>
+    <a href="https://medium.com/@tasnimzotder"><img height="42px" alt="medium" src="assets/medium.svg" /></a>
+    <a href="https://www.youtube.com/channel/UCInpi_5VQfHYDHWxreTgwRw"><img height="42px" alt="youtube" src="assets/play-button.svg" /></a>
 </p>
 
 ---
@@ -62,4 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
