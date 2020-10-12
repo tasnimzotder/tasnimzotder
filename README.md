@@ -1,8 +1,8 @@
 # Tasnim Zotder
 
-<img height="20px" alt="compass" src="assets/compass.png" /> A student -n- developer loves to explore ...
+A student -n- developer loves to explore ... <img height="32px" alt="compass" src="assets/compass.png" />
 
-## <img height="24px" alt="program" src="assets/program.png" /> Programming Languages
+## <img height="28px" alt="program" src="assets/program.png" /> Programming Languages
 
 <p align="center">
     <img height="42px" alt="python" src="assets/python.svg" />
@@ -11,7 +11,7 @@
     <img height="42px" alt="powershell" src="assets/powershell.svg" />
 </p>
 
-## <img height="24px" alt="cloud" src="assets/cloud.png" /> Connect me on
+## <img height="28px" alt="cloud" src="assets/cloud.png" /> Connect me on
 
 <p align="center">
     <a href="https://github.com/tasnimzotder"><img height="42px" alt="github" src="assets/github.svg"/></a>
