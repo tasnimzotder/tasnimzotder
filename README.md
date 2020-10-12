@@ -39,6 +39,11 @@ A student -n- developer loves to explore ⛵
 ---
 
 <br>
+
+<p align="center">
+    <a><img alt="Hit Counter" src="https://profile-counter.glitch.me/tasnimzotder/count.svg" /></a>
+</p>
+
 <p align="center">
     <a href="https://github.com/tasnimzotder" ><img src="https://github-readme-stats.vercel.app/api?username=tasnimzotder&show_icons=true"></a>
 </p>
@@ -57,3 +62,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
