@@ -26,7 +26,7 @@ A student -n- developer loves to explore ... <img height="32px" alt="compass" sr
 <br>
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/tasnim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="60px" ></a><br />
+    <a href="https://www.buymeacoffee.com/tasnimzotder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="60px" ></a><br />
     <a><img alt="Hit Counter" src="https://profile-counter.glitch.me/tasnimzotder/count.svg" /></a>
 </p>
 
