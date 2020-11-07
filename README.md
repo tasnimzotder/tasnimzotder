@@ -2,6 +2,7 @@
 
 A student -n- developer loves to explore ... <img height="32px" alt="compass" src="assets/compass.png" />
 
+<!--
 ## <img height="28px" alt="program" src="assets/program.png" /> Programming Languages
 
 <p align="center">
@@ -10,6 +11,8 @@ A student -n- developer loves to explore ... <img height="32px" alt="compass" sr
     <img height="42px" alt="cpp" src="assets/cpp-x.png" />
     <img height="42px" alt="powershell" src="assets/powershell.svg" />
 </p>
+
+-->
 
 ## <img height="28px" alt="cloud" src="assets/cloud.png" /> Connect me on
 
