@@ -1,6 +1,6 @@
 # Tasnim Zotder
 
-A student -n- developer loves to explore ... <img height="32px" alt="compass" src="assets/compass.png" />
+A student / developer loves to explore ... <img height="32px" alt="compass" src="assets/compass.png" />
 
 <!--
 ## <img height="28px" alt="program" src="assets/program.png" /> Programming Languages
