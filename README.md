@@ -2,7 +2,7 @@
 
 ### A student / developer loves to explore ...
 
-## <img height="28px" alt="cloud" src="assets/cloud-64.png" /> Connect with me on -
+## Around the web -
 
 <p align="center">
     <a href="https://twitter.com/tasnimzotder"><img height="42px" alt="twitter" src="assets/twitter-64.png" /></a>
@@ -18,8 +18,8 @@
 <br>
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/tasnimzotder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="60px" ></a><br />
-<!--     <a><img alt="Hit Counter" src="https://profile-counter.glitch.me/tasnimzotder/count.svg" /></a> -->
+    <!-- <a href="https://www.buymeacoffee.com/tasnimzotder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="60px" ></a><br /> -->
+    <a href="https://www.patreon.com/bePatron?u=11456200"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="patron button" /></a>
 </p>
 
 <p align="center">
