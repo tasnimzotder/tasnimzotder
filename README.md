@@ -1,6 +1,6 @@
 # Tasnim Zotder
 
-### A student / developer loves to explore ...
+<!-- ### A student / developer loves to explore ... -->
 
 ## Over The Internet
 
@@ -17,8 +17,7 @@
 
 <br />
 
-### Personal Website - [♾️ website](http://tasnimzotder.com/)
-### Personal Blog - [📝 blog](https://tasnimzotder.com/blog)
+## Personal Website - [Website](http://tasnimzotder.com/)
 
 <br />
 
